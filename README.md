@@ -7,7 +7,7 @@ Note that as of 11/18/2023, this playlist is not yet complete, so go to his [Git
 Should you jump ahead, make sure to find additional resources as his files are
 bare bones.
 
-You left off [here](https://github.com/iamshaunjp/typescript-masterclass/blob/lesson-13/src/index.ts)
+You left off [here](https://github.com/iamshaunjp/typescript-masterclass/blob/lesson-26/src/index.ts)
 
 Note that you created a script that will set up the most bare bones tsc setup.
 Once you've created the directory, just invoke:
