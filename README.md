@@ -7,7 +7,9 @@ Note that as of 11/18/2023, this playlist is not yet complete, so go to his [Git
 Should you jump ahead, make sure to find additional resources as his files are
 bare bones.
 
-You left off [here](https://github.com/iamshaunjp/typescript-masterclass/blob/lesson-26/src/index.ts)
+You left off [here](https://github.com/iamshaunjp/typescript-masterclass/tree/lesson-32/src)
+NOTE: At lesson 32, he starts to build a full stack app, but there isn't much TS
+at the beginning, just copy the files until he gets to working with TS.
 
 Note that you created a script that will set up the most bare bones tsc setup.
 Once you've created the directory, just invoke:
